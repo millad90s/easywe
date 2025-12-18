@@ -1,3 +1,106 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "prop1-1",
+      "description": "Modern living room with large windows",
+      "imageUrl": "https://images.unsplash.com/photo-1605774337664-7a846e9cdf17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc2NjAxNDg5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    },
+    {
+      "id": "prop1-2",
+      "description": "Sleek kitchen with island",
+      "imageUrl": "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxraXRjaGVufGVufDB8fHx8MTc2NjA2NDcxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen"
+    },
+    {
+      "id": "prop1-3",
+      "description": "Cozy bedroom with city view",
+      "imageUrl": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWRyb29tfGVufDB8fHx8MTc2NjAxMDI2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bedroom"
+    },
+    {
+      "id": "prop2-1",
+      "description": "Suburban house exterior",
+      "imageUrl": "https://images.unsplash.com/photo-1598228723793-52759bba239c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aG91c2UlMjBleHRlcmlvcnxlbnwwfHx8fDE3NjYwNTM5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "house exterior"
+    },
+    {
+      "id": "prop2-2",
+      "description": "Spacious backyard with patio",
+      "imageUrl": "https://images.unsplash.com/photo-1602860739945-9a61573cd62d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYWNreWFyZHxlbnwwfHx8fDE3NjYwNjk1OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backyard"
+    },
+    {
+      "id": "prop2-3",
+      "description": "Family room with fireplace",
+      "imageUrl": "https://images.unsplash.com/photo-1704040686510-b747ff423ebb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmYW1pbHklMjByb29tfGVufDB8fHx8MTc2NjA2OTU5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "family room"
+    },
+    {
+      "id": "prop3-1",
+      "description": "Rustic cabin in the woods",
+      "imageUrl": "https://images.unsplash.com/photo-1651823130581-5995406209ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYWJpbiUyMHdvb2RzfGVufDB8fHx8MTc2NjA2OTU5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cabin woods"
+    },
+    {
+      "id": "prop3-2",
+      "description": "Cabin interior with wooden beams",
+      "imageUrl": "https://images.unsplash.com/photo-1551927411-95e412943b58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYWJpbiUyMGludGVyaW9yfGVufDB8fHx8MTc2NjA2OTU5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cabin interior"
+    },
+    {
+      "id": "prop4-1",
+      "description": "Downtown studio apartment living area",
+      "imageUrl": "https://images.unsplash.com/photo-1702014862053-946a122b920d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkaW8lMjBhcGFydG1lbnR8ZW58MHx8fHwxNzY1OTY4NDUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "studio apartment"
+    },
+    {
+      "id": "prop4-2",
+      "description": "Compact and efficient kitchen",
+      "imageUrl": "https://images.unsplash.com/photo-1593853761096-d0423b545cf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzbWFsbCUyMGtpdGNoZW58ZW58MHx8fHwxNzY2MDU5NjAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "small kitchen"
+    },
+    {
+      "id": "prop5-1",
+      "description": "Luxury penthouse with panoramic view",
+      "imageUrl": "https://images.unsplash.com/photo-1702411200201-3061d0eea802?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZW50aG91c2UlMjB2aWV3fGVufDB8fHx8MTc2NjAzNjc2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "penthouse view"
+    },
+    {
+      "id": "prop5-2",
+      "description": "Rooftop terrace with seating",
+      "imageUrl": "https://images.unsplash.com/photo-1604064536391-074dc000c776?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyb29mdG9wJTIwdGVycmFjZXxlbnwwfHx8fDE3NjYwNjk1OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rooftop terrace"
+    },
+    {
+      "id": "prop5-3",
+      "description": "Marble bathroom with large tub",
+      "imageUrl": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3NjYwNjcwMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury bathroom"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Portrait of Jane Doe",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NjAxMjI0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Portrait of John Smith",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjYwNTI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Portrait of Emily White",
+      "imageUrl": "https://images.unsplash.com/photo-1607529378676-a20456ee2f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2NTk5ODk4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Portrait of Michael Brown",
+      "imageUrl": "https://images.unsplash.com/photo-1714356590155-f896e15d21c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8MTc2NjAxMDE5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    }
+  ]
 }
