@@ -83,7 +83,7 @@ export default function CreateListingForm() {
       });
 
       if (result.success) {
-        form.setValue('description', result.data, { shouldValidate: true });
+        form.setValue('description', result.data ?? '', { shouldValidate: true });
         toast({
           title: 'Description Enhanced!',
           description: 'The AI has improved your property description.',
